@@ -5,4 +5,13 @@
 - 📫 How to reach me 
 - https://twitter.com/heismarcellin
 
+skills
+- Python
+- Javascript 
+- Linux server 
+- Mysql server 
+- WordPress 
+- Illustrator
+- Photoshop 
+
 
